@@ -1,5 +1,8 @@
 # 📂 DirToMD: Context Synthesis Utility
 
+> **[Self-Contained Utility]**
+> *A complete, standalone Python script used daily to pack complex project directories into flat Markdown files for LLM prompt context.*
+
 A Python utility for converting codebases into structured Markdown. Designed to pack project directories into a single file to provide full project context to LLM-based assistants.
 
 - ⚙️ **Ignore System**: Respects \`.gitignore\` and custom ignore patterns.
